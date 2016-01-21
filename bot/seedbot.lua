@@ -226,7 +226,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text =[[ 
-     SUDO Users @ADKING_BOTv3
+     SUDO Users @ADKING_BOT]]
     ,
     help_text_realm = [[
 Realm Commands:
